@@ -1,6 +1,7 @@
 # WpfTutorial
 
-mma°¡ wpf±â¹ÝÀ¸·Î gui¸¸µç°Å º¸°í      
-ms csharp tutorial-wpf º¸¸é¼­ °øºÎÁß
+mmaê°€ wpfê¸°ë°˜ìœ¼ë¡œ guië§Œë“ ê±° ë³´ê³       
+ms csharp tutorial-wpf ë³´ë©´ì„œ ê³µë¶€ì¤‘    
+> https://learn.microsoft.com/ko-kr/dotnet/desktop/wpf/getting-started/wpf-walkthroughs?view=netframeworkdesktop-4.8
 
 
