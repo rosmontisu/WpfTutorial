@@ -24,5 +24,22 @@ namespace WpfTutorial
         {
             InitializeComponent();
         }
+
+        private void RadioButton_Checked(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            if (HelloButton.IsChecked == true) 
+            { 
+                MessageBox.Show("Hello."); 
+            }
+            else if (GoodbyeButton.IsChecked == true) 
+            { 
+                MessageBox.Show("Goodbye."); 
+            }
+        }
     }
 }
