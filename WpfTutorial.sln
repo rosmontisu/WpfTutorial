@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTutorial", "WpfTutorial.csproj", "{566F08F4-E156-4BB2-ADD2-C32894019F20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfTutorial", "WpfTutorial.csproj", "{566F08F4-E156-4BB2-ADD2-C32894019F20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyServer", "..\MyServer\MyServer.csproj", "{CBA50DE1-B290-4B07-A535-A96FFD7DB322}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{566F08F4-E156-4BB2-ADD2-C32894019F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{566F08F4-E156-4BB2-ADD2-C32894019F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{566F08F4-E156-4BB2-ADD2-C32894019F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBA50DE1-B290-4B07-A535-A96FFD7DB322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA50DE1-B290-4B07-A535-A96FFD7DB322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA50DE1-B290-4B07-A535-A96FFD7DB322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA50DE1-B290-4B07-A535-A96FFD7DB322}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
